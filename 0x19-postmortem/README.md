@@ -1,3 +1,5 @@
+/home/jamaal14/alx-system_engineering-devops/0x19-postmortem/404-error-page-found-concept-red-block-letters-number-white-background-3d-render-illustration_20693-1066.jpg
+
 Upon the release of Holberton School’s System Engineering & Dev Ops project 0x19, an outage occurred on an isolated Ubuntu 14.04 container running an Apache web server. GET requests on the server led to 500 Internal Server Error's, when the expected response was an HTML file defining a simple Holberton WordPress site .
 Debugging Process
 
